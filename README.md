@@ -1,1 +1,0 @@
-# useful-design-patterns
